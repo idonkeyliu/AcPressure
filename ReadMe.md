@@ -2,7 +2,7 @@
 背景
 ---
 
-[中文](https://jaywcjlove.github.io/sb/lang/chinese.svg)
+https://jaywcjlove.github.io/sb/lang/chinese.svg
 
 > 业务需要做一些压测，所以写个机器人来进行压力测试
 
