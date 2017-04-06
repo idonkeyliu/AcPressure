@@ -2,7 +2,7 @@
 背景
 ---
 
-https://jaywcjlove.github.io/sb/lang/chinese.svg
+![https://github.com/idonkeyliu/AcRobot/edit/master/ReadMe.md](https://jaywcjlove.github.io/sb/lang/chinese.svg)
 
 > 业务需要做一些压测，所以写个机器人来进行压力测试
 
